@@ -616,12 +616,12 @@ Colors Step - style
   background-color: #FFFFFF;
 }
 
-[data-color="grey"] {
-  background-color: #303539;
+[data-color="blue"] {
+  background-color: #1e8fc9;
 }
 
-[data-color="orange"] {
-  background-color: #cf5a16;
+[data-color="yellow"] {
+  background-color: #dff185;
 }
 
 [data-color="perl"] {
@@ -1141,4 +1141,9 @@ Builder fixed bottom summary
   .cd-builder-secondary-nav > ul {
     margin-top: 32px;
   }
+}
+
+
+.img-decoration {
+  height: 50px;
 }
